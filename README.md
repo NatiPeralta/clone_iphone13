@@ -2,7 +2,7 @@
 
 Uma aplicação web interativa que recria a landing page oficial do **iPhone 13 Pro da Apple**, focando em minimalismo visual, fidelidade aos detalhes do produto, responsividade e alternância dinâmica entre temas **Dark** e **Light**.
 
-<Image src="img/iphone_green.png/>
+<image src="img/iphone_green.png" alt="iPhone 13">
 
 ---
 
