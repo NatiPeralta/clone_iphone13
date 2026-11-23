@@ -32,8 +32,8 @@ O projeto foi desenvolvido como atividade prática durante o curso **Formação 
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/NatiPeralta/iphone13pro-clone.git](https://github.com/NatiPeralta/iphone13pro-clone.git)
-
+   git clone [https://github.com/NatiPeralta/clone_iphone13.git]
+   
 2. **Acesse a pasta do projeto:**
   ```cd iphone13pro-clone```
 
@@ -45,7 +45,7 @@ Basta dar um duplo clique no arquivo ```index.html``` ou executá-lo utilizando 
 
 Nati Peralta
 
-Desenvolvedora Front-end
+Desenvolvedora Full Stack
 
     GitHub: @NatiPeralta
 
